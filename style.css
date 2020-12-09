@@ -1,0 +1,33 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.navbar{
+    display: inline-block;
+    padding-right: 1em;
+    padding-left: 0em;
+    float: right;
+}
+.navbar li{
+    display: inline-block;
+    font-size: 13px;
+    padding: 1px 5px;
+}
+.navbar li button{
+    color: white;
+    background-color: blue;
+    border: none;
+    font-weight: bold;
+    width: 87px;
+    height: 29px;
+}
+.google-pic img{
+    margin: 0em 51em;
+    padding-top: 21px;
+}
+.search input{
+    margin: 1em 54em;
+    width: 38em;
+    height: 32px;
+    border-radius: 65px;
+    border: 1px solid;
+}
